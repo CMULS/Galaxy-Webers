@@ -74,6 +74,6 @@
         </svg>
     </div>
 </body>
-<p> Above is a frosted glass credit card theme. </p>
+<h4> Above is a frosted glass credit card theme. </h4>
 </html>
 
