@@ -54,7 +54,7 @@
             width: 40px;
             margin-top: 10px;
         }
-    h4 {
+    p {
      color: #fff;
 }
     </style>
@@ -77,7 +77,6 @@
         </svg>
     </div>
 </body>
-</style>
-<h4> Above is a frosted glass credit card theme. </h4>
+<p> Above is a frosted glass credit card theme. </p>
 </html>
 
