@@ -54,6 +54,9 @@
             width: 40px;
             margin-top: 10px;
         }
+        h4 {
+        color: white;
+     }
     </style>
 </head>
 <body>
